@@ -154,3 +154,8 @@ padding: 0.5rem 1rem;
 
 }
 /* End Team */
+/* Start Projects */
+.projects{
+    background-color: var(--dark-color);
+}
+/* End Projects */
